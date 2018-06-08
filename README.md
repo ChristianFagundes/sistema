@@ -1,2 +1,2 @@
-# sistema2
+# sistema
 Sistema para gerenciamento de Clientes e Pagamentos
